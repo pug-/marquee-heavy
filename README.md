@@ -38,8 +38,8 @@ npm run specimen
 
 ## Validation and current limitations
 
-The TTF was parsed and checksum-validated independently with ReportLab, registered and rendered in Skia, and visually compared with the original plus the selected stroke/height treatment. WOFF table contents were checked against the TTF. See `VALIDATION.json`.
+The TTF was parsed and checksum-validated independently with ReportLab, registered and rendered in Skia, and visually compared with the original plus the selected stroke/height treatment. WOFF table contents were checked against the TTF. 
 
 This is a **beta**. FontBakery, OpenType Sanitizer, Windows/Office/Adobe application tests, exhaustive language/mark-positioning review, and a full kerning/spacing review have not been completed. Original positioning tables were retained; combining marks and tight pairs merit review with the heavier outlines. No full font-family expansion, italic or variable axes are included.
 
-See `PUBLISHING.md` for the recommended public release process. Nothing has been published online by this task.
+See `PUBLISHING.md` for the recommended public release process. 
