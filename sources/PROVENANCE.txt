@@ -1,0 +1,3 @@
+Source TTF: https://github.com/google/fonts/blob/main/ofl/michroma/Michroma-Regular.ttf
+Source licence: https://github.com/google/fonts/blob/main/ofl/michroma/OFL.txt
+Retrieved 2026-09-19. SHA256: b62301163788bc5b7f8fcac0b74b184e34e1827e577b499ecb724da065098f87
