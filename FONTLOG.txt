@@ -1,0 +1,6 @@
+2026-09-19 — Version 0.100 beta
+Based on Google Fonts Michroma Regular 1.100. Expanded fill outlines by the selected 0.052em centred stroke, then vertically scaled to 99%. Decomposed composites, resolved fill winding, removed obsolete hints, regenerated bounds and font metadata. Preserved glyph order, cmap, advances and source layout tables. Added MARQUEE naming and modification credit. Exported TTF and WOFF.
+
+2026-09-19: 0.101 beta. Normalize nested contour directions to preserve counters in font renderers. Logo package uses 99% height.
+
+

@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'MARQUEE Heavy';
+  src: url('fonts/MARQUEE-Heavy.woff') format('woff');
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+.marquee { font-family: 'MARQUEE Heavy', sans-serif; font-weight: 800; font-synthesis: none; color: #35434D; }
